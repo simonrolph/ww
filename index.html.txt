@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John and Jane's Wedding</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>John and Jane's Wedding</h1>
+    </header>
+
+    <main>
+        <section class="hero">
+            <img src="hero.jpg" alt="Happy couple">
+        </section>
+
+        <section class="about-us">
+            <h2>About Us</h2>
+            <p>John and Jane met in college and have been together ever since. They are both passionate about travel, food, and spending time with family and friends.</p>
+        </section>
+
+        <section class="ceremony">
+            <h2>The Ceremony</h2>
+            <p>The ceremony will be held at [Ceremony Location] on [Ceremony Date] at [Ceremony Time].</p>
+        </section>
+
+        <section class="reception">
+            <h2>The Reception</h2>
+            <p>The reception will be held at [Reception Location] on [Reception Date] at [Reception Time].</p>
+        </section>
+
+        <section class="registry">
+            <h2>Registry</h2>
+            <p>We have registered at [Registry Link].</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 John and Jane</p>
+    </footer>
+</body>
+</html>
