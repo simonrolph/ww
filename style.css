@@ -3,3 +3,10 @@ body {
     text-align: center;
     background-color: #f2f2ed;
 }
+
+.container {
+    width: 90%;
+    margin: 10px auto; /* Center the container horizontally with top and bottom margin */
+    padding: 15px;
+    line-height: 1.5;
+}
